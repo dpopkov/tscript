@@ -10,3 +10,4 @@
 - Use compiler options file `tsconfig.json` (generate it with `tsc --init`).
 - Parameter Properties.
 - Modules export and import.
+- Inheritance.
