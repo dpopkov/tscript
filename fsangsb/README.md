@@ -11,3 +11,4 @@
 - Parameter Properties.
 - Modules export and import.
 - Inheritance.
+- Abstract classes and interfaces.
