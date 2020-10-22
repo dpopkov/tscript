@@ -8,3 +8,5 @@
 - Create classes, use constructor.
 - Use options `tsc --target ES6 --noEmitOnError filename`.
 - Use compiler options file `tsconfig.json` (generate it with `tsc --init`).
+- Parameter Properties.
+- Modules export and import.
