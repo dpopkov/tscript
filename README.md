@@ -1,4 +1,6 @@
 # tscript - TypeScript Training
 
-## [Full Stack: Angular and Spring Boot](fsangsb)
+## [TypeScript Crush Course (from "Full Stack: Angular and Spring Boot")](fsangsb)
+
+## [Angular Crush Course (from "Full Stack: Angular and Spring Boot")](angtrain)
 
