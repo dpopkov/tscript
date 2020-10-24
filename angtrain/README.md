@@ -1,5 +1,9 @@
 # Angular Training
 
+## 3 - Integrate with Bootstrap
+- Add links to index.html
+- Apply styles in component HTML templates
+
 ## 2 - Creating Component
 
 - Update template page
