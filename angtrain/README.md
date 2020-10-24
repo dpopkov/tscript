@@ -3,6 +3,7 @@
 ## 3 - Integrate with Bootstrap
 - Add links to index.html
 - Apply styles in component HTML templates
+- Use Angular Conditionals and Formatting
 
 ## 2 - Creating Component
 
